@@ -1,0 +1,57 @@
+body {
+	padding: 10px;
+}
+
+.currencyListHeader {
+	background-color: grey;
+	color: white;
+	font-style: italic;
+}
+
+.currencyList {
+	border: 1px solid silver;
+	margin-bottom:6px;
+	padding: 2px;
+}
+
+.currencyListNumericColumn {
+	text-align: right;
+	width:8em;
+}
+
+.currencyListRemoveColumn {
+	text-align: center;
+}
+
+.addPanel {
+	margin: 10px 0px 15px 0px;
+}
+
+.lastUpdatedLabel {
+	margin: 0px 10px;
+}
+
+.inputErrorMsgLabel {
+	color: red;
+	margin: 0px 10px;
+}
+
+.gwt-Button-remove {
+	width: 50px;
+}
+
+.noChange {
+	color: black;
+}
+
+.positiveChange {
+	color: green;
+}
+
+.negativeChange {
+	color: red;
+}
+
+.errorMessage {
+	color: red;
+}
